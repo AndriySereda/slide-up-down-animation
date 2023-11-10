@@ -1,5 +1,5 @@
 # slide-up-down-animation
-example of animation slide movement
+Perfectly matched slides, changing and moving towards each other, just after clicking on the arrow 😊
 
 To watch the page result go to:
 
